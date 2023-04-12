@@ -9,7 +9,6 @@
 ## 💻 Como usar
 
 - Clone o projeto: `https://github.com/Gabriel200395/hosting-website.git`
-- Entrar na pasta do projeto: `https://github.com/Gabriel200395/hosting-website.git`
 
 ## :heart_eyes: Features
 
